@@ -1,0 +1,5 @@
+Sebelum mempelajari simbol &, mari kita meninjau ulang :hover dan :active. Keadaan dimana kursor berada di atas element disebut hover. Pada CSS, dengan selector:hover, Anda dapat menerapkan CSS spesifik saat kursor menghover sebuah element.
+
+Dengan menggunakan active dengan selector, CSS dapat diterapkan hanya jika element diklik. Ini dapat dilakukan dengan sintaksis: selector:active.
+
+Dengan nesting, Anda dapat menulis ulang selector:hover sebagai &:hover, seperti ditunjukkan di bawah. Ingat bahwa & bisa digunakan dengan selector apapun - hover, active, dan lain-lain.
